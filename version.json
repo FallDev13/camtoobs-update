@@ -1,6 +1,6 @@
 {
-     "versionCode": 13,
-     "versionName": "7.6",
+     "versionCode": 14,
+     "versionName": "7.7",
      "url": "https://drive.google.com/file/d/10E_ZUfNMeH2bCXb6G86NGLCCaFeMBJYd/view?usp=drive_link",
-     "changelog": "- Ganti icon aplikasi\n- Icon splash screen baru"
+     "changelog": "- Tambah tombol Cek Update manual di halaman About"
    }
