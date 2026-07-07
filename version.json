@@ -1,6 +1,6 @@
 {
-     "versionCode": 18,
-     "versionName": "8.3",
+     "versionCode": 19,
+     "versionName": "8.4",
      "url": "https://drive.google.com/file/d/10E_ZUfNMeH2bCXb6G86NGLCCaFeMBJYd/view?usp=drive_link",
-     "changelog": "- Video ke OBS sekarang bisa sampai 60fps (sebelumnya dibatasi 15fps)"
+     "changelog": "- Perbaikan: video jadi gelap akibat paksa 60fps, sekarang otomatis menyesuaikan cahaya"
    }
