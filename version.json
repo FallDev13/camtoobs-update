@@ -1,6 +1,6 @@
 {
-     "versionCode": 19,
-     "versionName": "8.4",
+     "versionCode": 22,
+     "versionName": "8.7",
      "url": "https://drive.google.com/file/d/10E_ZUfNMeH2bCXb6G86NGLCCaFeMBJYd/view?usp=drive_link",
-     "changelog": "- Perbaikan: video jadi gelap akibat paksa 60fps, sekarang otomatis menyesuaikan cahaya"
+     "changelog": "- Frame rate sekarang otomatis menyesuaikan kemampuan asli kamera HP (bukan dipaksa angka tetap)\n- Video tetap terang normal di tempat gelap"
    }
