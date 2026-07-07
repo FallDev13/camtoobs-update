@@ -1,6 +1,6 @@
 {
-     "versionCode": 17,
-     "versionName": "8.2",
+     "versionCode": 18,
+     "versionName": "8.3",
      "url": "https://drive.google.com/file/d/10E_ZUfNMeH2bCXb6G86NGLCCaFeMBJYd/view?usp=drive_link",
-     "changelog": "- Kode lisensi sekarang beneran sekali pakai (dicek online)"
+     "changelog": "- Video ke OBS sekarang bisa sampai 60fps (sebelumnya dibatasi 15fps)"
    }
